@@ -1,0 +1,5 @@
+ru\artemm\usofrt\usofrt\controller\XlsxController.class
+ru\artemm\usofrt\usofrt\services\XlsxService.class
+ru\artemm\usofrt\usofrt\UsofrtApplication.class
+ru\artemm\usofrt\usofrt\errors\HandleError.class
+ru\artemm\usofrt\usofrt\services\impl\XlsxServiceImpl.class

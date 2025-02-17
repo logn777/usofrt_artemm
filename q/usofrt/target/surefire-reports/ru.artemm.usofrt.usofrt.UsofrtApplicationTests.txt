@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.artemm.usofrt.usofrt.UsofrtApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.948 s -- in ru.artemm.usofrt.usofrt.UsofrtApplicationTests
